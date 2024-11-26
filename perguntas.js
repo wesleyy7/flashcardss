@@ -1,7 +1,7 @@
 criaCartao(
     'CRISTIANO RONALDO',
     'Quantos gols Cristiano Ronaldo tem na carreira?',
-    '907'
+    '913'
 )
 criaCartao(
     'CRISTIANO RONALDO',
